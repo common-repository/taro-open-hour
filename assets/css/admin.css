@@ -1,0 +1,3 @@
+/* line 5, src/scss/admin.scss */#tsoh-meta th{font-weight:700;text-align:center}/* line 10, src/scss/admin.scss */#tsoh-meta .right{text-align:right}/* line 13, src/scss/admin.scss */#tsoh-meta .right span{color:#888}/* line 18, src/scss/admin.scss */#tsoh-meta .tsoh-time{width:6em}/* line 22, src/scss/admin.scss */#tsoh-meta tbody th input{width:8em}/* line 28, src/scss/admin.scss */.tsoh-label{display:inline-block;margin-right:1em;margin-bottom:0.5em;background:#f9f9f9;border:1px solid #ddd;padding:5px 10px}/* line 38, src/scss/admin.scss */.location-selector{max-width:100%;min-width:100px}/* line 43, src/scss/admin.scss */body.wp-customizer .select2-container{z-index:1000000}
+
+/*# sourceMappingURL=map/admin.css.map */
